@@ -3,6 +3,7 @@
 ## usuario discord f3hl3r
 ##reto frontend (2)
 ##link repo https://github.com/raykotab/hackatonNuwe.git
+##deploy  https://raykotab.github.io/hackatonNuwe/ 
 
 ![banner](/Assets/banner.jpeg)
 

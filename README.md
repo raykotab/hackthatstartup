@@ -1,4 +1,8 @@
 # Hack that startup
+## participante Alvaro Sanchez
+## usuario discord f3hl3r
+##reto frontend (2)
+##link repo https://github.com/raykotab/hackatonNuwe.git
 
 ![banner](/Assets/banner.jpeg)
 
